@@ -93,7 +93,7 @@
         A study planning application designed to help students organize
         subjects, exams, and study tasks through a structured dashboard.
       </p>
-      <p><b>Tech:</b> Next.js, TypeScript, PostgreSQL, Prisma, JWT</p>
+      <p><b>Tech:</b> Next.js, TypeScript, PostgreSQL, JWT, prisma</p>
     </td>
   </tr>
   <tr>
