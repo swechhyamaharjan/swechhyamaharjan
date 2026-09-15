@@ -128,34 +128,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=swechhyamaharjan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub statistics"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swechhyamaharjan&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top programming languages"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swechhyamaharjan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🐍 My Contribution Journey
-
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/swechhyamaharjan/swechhyamaharjan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
