@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1881C5&height=200&section=header&text=Swechhya%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20QA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1881C5&height=200&section=header&text=Swechhya%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%26%20Next.js%20%7C%20MERN%20Stack&descAlignY=60&descSize=18" width="100%"/>
 
   <h3>Hi there! 👋 I'm Swechhya</h3>
 
@@ -15,10 +15,13 @@
 
   <p>
     <a href="https://portfolio-mocha-chi-43.vercel.app">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-1881C5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-1881C5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="https://github.com/swechhyamaharjan">
       <img src="https://img.shields.io/badge/GitHub-Profile-0A2540?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/swechhya-maharjan-62b60525a/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
 
@@ -175,26 +178,6 @@
     <img src="https://img.shields.io/badge/Explore%20More%20Repositories-GitHub-0A2540?style=for-the-badge&logo=github&logoColor=white" alt="More repositories"/>
   </a>
 </p>
-
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|---|---|---|
-| Frontend Developer | AI Education and Technologies | Sep 2026 – Present |
-| Frontend Developer Intern | AI Education and Technologies | Jun 2026 – Sep 2026 |
-| MERN Stack Development Training | Broadway | Jul 2025 – Oct 2025 |
-
-## 🎓 Education
-
-| Qualification | Institution | Year |
-|---|---|---|
-| BSc (Hons) Computer Science | Herald College Kathmandu | 2022 – 2025 |
-| Higher Secondary Education (+2), Science | Trinity International College | 2019 – 2021 |
-| Secondary School Examination (SEE) | Universal College Preparatory School | 2010 – 2019 |
-
----
 
 
 ## 🤝 Let's Connect
