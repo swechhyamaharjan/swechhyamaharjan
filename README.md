@@ -1,7 +1,7 @@
 <div align="center">
 
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1881C5&height=200&section=header&text=Swechhya%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20QA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1881C5&height=200&section=header&text=Swechhya%20Maharjan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20MERN%20%7C%20QA%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
 
   <h3>Hi there! 👋 I'm Swechhya</h3>
 
