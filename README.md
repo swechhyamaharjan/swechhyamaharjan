@@ -5,7 +5,7 @@
   <h3>Hi there! 👋 I'm Swechhya</h3>
 
   <p>
-    <b>Computer Science Graduate</b> • Full-Stack Developer • QA Enthusiast
+    <b>Computer Science Graduate</b> • Frontend Developer • MERN Enthusiast
   </p>
 
   <p>
@@ -196,28 +196,6 @@
 
 ---
 
-## 📁 About This Repository
-
-This repo powers my personal portfolio site — a two-part project:
-
-- **`frontend/`** — React 19 + Vite + React Router 7, styled with Tailwind CSS 4, using Axios and React Toastify for the contact form.
-- **`contact-backend/`** — An Express 5 API (deployed as a Vercel serverless function) that sends contact form submissions via Nodemailer.
-
-### Running locally
-
-```bash
-# Frontend
-cd frontend
-npm install
-npm run dev
-
-# Contact backend
-cd contact-backend
-npm install
-npm start
-```
-
----
 
 ## 🤝 Let's Connect
 
